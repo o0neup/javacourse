@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>me.oneup.java</groupId>
-    <artifactId>javacourse</artifactId>
+    <groupId>me.oneup</groupId>
+    <artifactId>java</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
 
@@ -32,7 +32,7 @@
 
           <archive>
             <manifest>
-              <mainClass>me.oneup.java.javacourse.hw01maven.HelloOtus</mainClass>
+              <mainClass>me.oneup.java.hw01maven.HelloOtus</mainClass>
             </manifest>
           </archive>
         </configuration>

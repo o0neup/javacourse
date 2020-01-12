@@ -1,4 +1,4 @@
-package me.oneup.java.javacourse.hw01maven;
+package me.oneup.java.hw01maven;
 
 import com.google.common.base.Joiner;
 import com.google.common.collect.ImmutableList;
